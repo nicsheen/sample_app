@@ -1,0 +1,23 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=sample_app
+base_path=/home/nic/Dev/railstutorial/sample_app
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=71;Ruby;0;16;1;1;0;/home/nic/Dev/railstutorial/sample_app/config/routes.rb;0
+FILE_NAME_1=0;Ruby;0;16;1;1;0;/home/nic/Dev/railstutorial/sample_app/spec/spec_helper.rb;0
+FILE_NAME_2=461;Ruby;0;16;1;1;0;/home/nic/Dev/railstutorial/sample_app/spec/controllers/pages_controller_spec.rb;0
+FILE_NAME_3=107;Ruby;0;16;1;1;0;/home/nic/Dev/railstutorial/sample_app/app/controllers/pages_controller.rb;0
+FILE_NAME_4=70;None;0;16;1;1;0;/home/nic/Dev/railstutorial/sample_app/app/views/pages/about.html.erb;0
